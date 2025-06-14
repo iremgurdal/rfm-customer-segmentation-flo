@@ -29,12 +29,13 @@ Veri seti, FLO’nun 2020-2021 yıllarında hem online hem de offline kanallar �
 - `Python`
 - `Pandas`
 - `Datetime`
-- `C
+
 🧠 Öğrenilenler
-RFM skorlama tekniği
-Müşteri segmentasyonu
-Segment bazlı pazarlama stratejisi üretimi
-Veri ön işleme ve fonksiyonlaştırma pratiği
+
+- RFM skorlama tekniği
+- Müşteri segmentasyonu
+- Segment bazlı pazarlama stratejisi üretimi
+- Veri ön işleme ve fonksiyonlaştırma pratiği
 
 📌 Notlar
 Veri dosyası gizlilik sebebiyle paylaşılmamıştır. Proje eğitsel amaçla hazırlanmıştır.
